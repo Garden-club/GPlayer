@@ -1,0 +1,9 @@
+## Interface: 70300
+## Title: GPlayer - Template
+## Version: 1
+## Notes: Template Pack for GPlayer
+## Author: Grandmaster Pa
+## DefaultState: Enabled
+## RequiredDeps: GPlayer
+Pack_Tunes.lua
+

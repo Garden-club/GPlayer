@@ -1,0 +1,10 @@
+## Interface: 70300
+## Title: GPlayer
+## Version: 1
+## Notes: ♫ Play sounds and music ♪
+## Author: Gardener
+## DefaultState: Enabled
+## SavedVariablesPerCharacter: DJChan, DJPlayList
+Main.lua
+pj_list.lua
+
